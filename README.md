@@ -29,4 +29,4 @@ This dashboard transforms raw call center data into actionable insights through 
 
 ## Purpose
 The goal of this project is to practice transforming operational data into a professional business intelligence dashboard that supports data-driven decision making.
-
+##بع
